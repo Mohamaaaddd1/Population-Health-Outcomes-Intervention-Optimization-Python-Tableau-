@@ -81,13 +81,13 @@ Population Segmentation
 
 * K-Means clustering groups populations into four coherent segments:
 
-** High Risk – low life expectancy and limited resources
+- **High Risk** – low life expectancy and limited resources
 
-** Elevated Risk – improving outcomes but still below global averages
+- **Elevated Risk** – improving outcomes but still below global averages
 
-** Moderate Risk – stable mid-range performance
+- **Moderate Risk** – stable mid-range performance
 
-** Low Risk – highest life expectancy and strongest economic capacity
+- **Low Risk** – highest life expectancy and strongest economic capacity
 
 * These clusters make intervention prioritization more actionable.
 
