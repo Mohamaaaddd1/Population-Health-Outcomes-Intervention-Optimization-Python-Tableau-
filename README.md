@@ -20,7 +20,7 @@ Create a Tableau dashboard summarizing KPIs, outcome gaps, clusters, and interve
 Produce a portfolio-ready project demonstrating analytical rigor and healthcare-relevant thinking.
 
 ## ❓ Key Questions Answered
-Understanding Population Health
+# Understanding Population Health
 
 * How do life expectancy levels vary globally?
 
