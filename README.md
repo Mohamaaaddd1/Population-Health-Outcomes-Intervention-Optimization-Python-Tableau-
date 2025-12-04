@@ -5,7 +5,7 @@ The analysis examines how economic resources and temporal trends relate to healt
 
 This mirrors real workflows in healthcare analytics, population health management, Medicaid intervention planning, and public-health decision support.
 
-🎯 Objectives
+## 🎯 Objectives
 
 Perform descriptive and diagnostic analytics to understand global variations in life expectancy.
 
@@ -19,7 +19,7 @@ Create a Tableau dashboard summarizing KPIs, outcome gaps, clusters, and interve
 
 Produce a portfolio-ready project demonstrating analytical rigor and healthcare-relevant thinking.
 
-❓ Key Questions Answered
+## ❓ Key Questions Answered
 Understanding Population Health
 
 How do life expectancy levels vary globally?
@@ -58,7 +58,7 @@ Which population clusters benefit most from targeted investment?
 
 How can scenario modeling inform policy or public-health planning?
 
-📈 Results
+## 📈 Results
 Population Overview (KPIs)
 
 Life expectancy varies widely across countries, with a ~28-year gap between the highest- and lowest-performing populations.
@@ -97,7 +97,7 @@ A 10% increase in economic resources yields measurable improvements in predicted
 
 High-risk and underperforming clusters show the largest modeled gains, indicating where investment may maximize population-level impact.
 
-🛠️ Tools Used
+## 🛠️ Tools Used
 Python
 
 pandas, NumPy
@@ -126,7 +126,7 @@ Clean project structure
 
 Documented analytics pipeline
 
-💡 Why This Project Matters
+## 💡 Why This Project Matters
 
 Understanding what drives differences in life expectancy is essential for organizations involved in:
 
