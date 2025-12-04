@@ -80,17 +80,13 @@ Underperformers & Outcome Gaps
 Population Segmentation
 
 * K-Means clustering groups populations into four coherent segments:
-
- **High Risk** – low life expectancy and limited resources
-
- **Elevated Risk** – improving outcomes but still below global averages
-
- **Moderate Risk** – stable mid-range performance
-
- **Low Risk** – highest life expectancy and strongest economic capacity
+  
+  * **High Risk** – low life expectancy and limited resources  
+  * **Elevated Risk** – improving outcomes but still below global averages  
+  * **Moderate Risk** – stable mid-range performance  
+  * **Low Risk** – highest life expectancy and strongest economic capacity  
 
 * These clusters make intervention prioritization more actionable.
-
 Scenario Simulations
 
 * A 10% increase in economic resources yields measurable improvements in predicted life expectancy, varying by cluster.
