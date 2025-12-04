@@ -22,41 +22,41 @@ Produce a portfolio-ready project demonstrating analytical rigor and healthcare-
 ## ❓ Key Questions Answered
 Understanding Population Health
 
-How do life expectancy levels vary globally?
+* How do life expectancy levels vary globally?
 
-What is the overall gap between the highest- and lowest-performing populations?
+* What is the overall gap between the highest- and lowest-performing populations?
 
-Which countries show meaningful declines or improvements over time?
+* Which countries show meaningful declines or improvements over time?
 
 Drivers of Health Outcomes
 
-How strongly is economic capacity (GDP) associated with life expectancy?
+* How strongly is economic capacity (GDP) associated with life expectancy?
 
-Does log-transforming GDP reveal a more linear relationship?
+* Does log-transforming GDP reveal a more linear relationship?
 
-How much of life expectancy can be explained using a simple regression model?
+* How much of life expectancy can be explained using a simple regression model?
 
 Underperforming Populations
 
-Which countries have significantly lower life expectancy than expected given their economic scale?
+* Which countries have significantly lower life expectancy than expected given their economic scale?
 
-What do regression residuals reveal about outcome gaps?
+* What do regression residuals reveal about outcome gaps?
 
-Can we identify populations requiring prioritized intervention?
+* Can we identify populations requiring prioritized intervention?
 
 Segmentation & Stratification
 
-How can clustering group countries into interpretable risk categories?
+* How can clustering group countries into interpretable risk categories?
 
-What distinguishes “High-Risk,” “Elevated-Risk,” “Moderate-Risk,” and “Low-Risk” population segments?
+* What distinguishes “High-Risk,” “Elevated-Risk,” “Moderate-Risk,” and “Low-Risk” population segments?
 
-Intervention Planning
+ Intervention Planning
 
-If a country increases its economic resources by 10%, how would predicted life expectancy change?
+* If a country increases its economic resources by 10%, how would predicted life expectancy change?
 
-Which population clusters benefit most from targeted investment?
+* Which population clusters benefit most from targeted investment?
 
-How can scenario modeling inform policy or public-health planning?
+* How can scenario modeling inform policy or public-health planning?
 
 ## 📈 Results
 Population Overview (KPIs)
