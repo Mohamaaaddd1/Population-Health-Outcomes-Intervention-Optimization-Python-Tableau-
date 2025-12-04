@@ -61,97 +61,75 @@ Segmentation & Stratification
 ## 📈 Results
 Population Overview (KPIs)
 
-Life expectancy varies widely across countries, with a ~28-year gap between the highest- and lowest-performing populations.
+* Life expectancy varies widely across countries, with a ~28-year gap between the highest- and lowest-performing populations.
 
-Significant inequality persists, even among economically similar groups.
+* Significant inequality persists, even among economically similar groups.
 
 Economic Drivers of Outcomes
 
-Log-transformed GDP shows a strong, positive, and more linear relationship with life expectancy.
+* Log-transformed GDP shows a strong, positive, and more linear relationship with life expectancy.
 
-A simple regression model captures broad trends effectively (R² ≈ 0.8), indicating economic capacity and time trends explain a large share of health-outcome variance.
+* A simple regression model captures broad trends effectively (R² ≈ 0.8), indicating economic capacity and time trends explain a large share of health-outcome variance.
 
 Underperformers & Outcome Gaps
 
-Several countries fall well below predicted life expectancy, even after accounting for economic resources.
+* Several countries fall well below predicted life expectancy, even after accounting for economic resources.
 
-These underperformers represent priority candidates for targeted public-health interventions.
+* These underperformers represent priority candidates for targeted public-health interventions.
 
 Population Segmentation
 
-K-Means clustering groups populations into four coherent segments:
+* K-Means clustering groups populations into four coherent segments:
 
-High Risk – low life expectancy and limited resources
+** High Risk – low life expectancy and limited resources
 
-Elevated Risk – improving outcomes but still below global averages
+** Elevated Risk – improving outcomes but still below global averages
 
-Moderate Risk – stable mid-range performance
+** Moderate Risk – stable mid-range performance
 
-Low Risk – highest life expectancy and strongest economic capacity
+** Low Risk – highest life expectancy and strongest economic capacity
 
-These clusters make intervention prioritization more actionable.
+* These clusters make intervention prioritization more actionable.
 
 Scenario Simulations
 
-A 10% increase in economic resources yields measurable improvements in predicted life expectancy, varying by cluster.
+* A 10% increase in economic resources yields measurable improvements in predicted life expectancy, varying by cluster.
 
-High-risk and underperforming clusters show the largest modeled gains, indicating where investment may maximize population-level impact.
+* High-risk and underperforming clusters show the largest modeled gains, indicating where investment may maximize population-level impact.
 
 ## 🛠️ Tools Used
-Python
+Python (pandas, NumPy, seaborn, matplotlib, scikit-learn (LinearRegression, KMeans, StandardScaler), pathlib, modular scripting structure)
 
-pandas, NumPy
+Tableau (KPI cards, Line charts, scatterplots, cluster visuals, Parameter-driven “What-If” simulation, Cluster segmentation and outcome-gap dashboards)
 
-seaborn, matplotlib
-
-scikit-learn (LinearRegression, KMeans, StandardScaler)
-
-pathlib, modular scripting structure
-
-Tableau
-
-KPI cards
-
-Line charts, scatterplots, cluster visuals
-
-Parameter-driven “What-If” simulation
-
-Cluster segmentation and outcome-gap dashboards
-
-GitHub
-
-Version control
-
-Clean project structure
-
-Documented analytics pipeline
+GitHub (Version control, Clean project structure, Documented analytics pipeline)
 
 ## 💡 Why This Project Matters
 
 Understanding what drives differences in life expectancy is essential for organizations involved in:
 
-Population health analytics
+* Population health analytics
 
-Medicaid and care-management programs
+* Medicaid and care-management programs
 
-Public-health planning
+* Public-health planning
 
-Health-equity initiatives
+* Health-equity initiatives
 
-Insurance & risk modeling
+* Insurance & risk modeling
 
-Global health policy
+* Global health policy
 
 This project demonstrates your ability to:
 
-Transform raw data into meaningful healthcare insights
+* Transform raw data into meaningful healthcare insights
 
-Use regression to identify outcome drivers
+* Use regression to identify outcome drivers
 
-Apply segmentation to stratify populations
+* Apply segmentation to stratify populations
 
-Perform prescriptive scenario modeling
+* Perform prescriptive scenario modeling
 
-Build dashboards that support strategic decision-making
+* Build dashboards that support strategic decision-making
 
 For employers, this project shows data storytelling, Python analytics, and Tableau visualization skills—directly applicable to healthcare analytics roles.
