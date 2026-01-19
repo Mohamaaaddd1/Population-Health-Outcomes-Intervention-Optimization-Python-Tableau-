@@ -5,6 +5,31 @@ The analysis examines how economic resources and temporal trends relate to healt
 
 This mirrors real workflows in healthcare analytics, population health management, Medicaid intervention planning, and public-health decision support.
 
+## 📂 Repository Structure
+
+Population-Health-Outcomes-Intervention-Optimization/
+│
+├── data/
+│   └── all_data.csv
+│
+├── python/
+│   └── python code/
+│       └── life_exp_gdp_analysis.py
+│
+├── notebooks/
+│   └── Population_Health_Outcomes_Analysis.ipynb
+│
+├── reports/
+│   └── figures/
+│       ├── life_expectancy_distribution.png
+│       ├── life_exp_vs_gdp.png
+│       ├── global_life_expectancy_trend.png
+│       ├── outcome_gap_residuals.png
+│       └── population_segments_clusters.png
+│
+├── requirements.txt
+└── README.md
+
 ## 🎯 Objectives
 
 Perform descriptive and diagnostic analytics to understand global variations in life expectancy.
