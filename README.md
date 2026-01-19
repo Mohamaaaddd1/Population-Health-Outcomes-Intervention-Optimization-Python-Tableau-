@@ -111,7 +111,7 @@ Scenario Simulations
 * High-risk and underperforming clusters show the largest modeled gains, indicating where investment may maximize population-level impact.
 
 ## 🛠️ Tools Used
-Python (pandas, NumPy, seaborn, matplotlib, scikit-learn (LinearRegression, KMeans, StandardScaler), pathlib, modular scripting structure)
+Python via VSCode (pandas, NumPy, seaborn, matplotlib, scikit-learn (LinearRegression, KMeans, StandardScaler), pathlib, modular scripting structure)
 
 Tableau (KPI cards, Line charts, scatterplots, cluster visuals, Parameter-driven “What-If” simulation, Cluster segmentation and outcome-gap dashboards)
 
