@@ -8,7 +8,7 @@ This mirrors real workflows in healthcare analytics, population health managemen
 ## 📂 Repository Structure
 
 - `data\`
- - `all_data.csv`
+  - `all_data.csv`
 - `python\`
  - `notebooks\`
   - `Population_Health_Outcomes_Analysis.ipynb`
