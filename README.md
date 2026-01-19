@@ -8,19 +8,19 @@ This mirrors real workflows in healthcare analytics, population health managemen
 ## 📂 Repository Structure
 
 - `data/`
-  - `all_data.csv`
+  - `all_data.csv` - Raw population-level dataset containing life expectancy, GDP, country, and year variables
 - `python/`
    - `notebooks/`
-      - `Population_Health_Outcomes_Analysis.ipynb`
+      - `Population_Health_Outcomes_Analysis.ipynb` - Narrative notebook explaining analytical decisions, visual exploration, and interpretation of results
    - `python code/`
-      - `life_exp_gdp_analysis.py`
+      - `life_exp_gdp_analysis.py` - End-to-end Python analytics script covering feature engineering, regression analysis, clustering, scenario simulation, and figure generation
 - `reports/figures/`
    - `figures/`
-      - `global_life_expectancy_trend.png`
-      - `life_exp_vs_gdp.png`
-      - `life_expectancy_distribution.png`
-      - `outcome_gap_residuals.png`
-      - `population_segments_clusters.png`
+      - `global_life_expectancy_trend.png` - Time-series view of global average life expectancy, illustrating long-term improvement trends
+      - `life_exp_vs_gdp.png` - Scatter plot showing the relationship between economic capacity (log GDP) and life expectancy
+      - `life_expectancy_distribution.png` - Distribution of life expectancy across countries, highlighting global variation and inequality in health outcomes
+      - `outcome_gap_residuals.png` - Regression residuals identifying countries underperforming or outperforming expected life expectancy given economic scale
+      - `population_segments_clusters.png` - Cluster-based segmentation grouping countries into interpretable population risk tiers
 - `README.md/`
 ## 🎯 Objectives
 
