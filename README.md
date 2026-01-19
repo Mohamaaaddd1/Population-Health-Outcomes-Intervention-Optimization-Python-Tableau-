@@ -1,4 +1,4 @@
-# Population-Health-Outcomes-Intervention-Optimization-Python-Tableau-
+# Population Health Outcomes Intervention Optimization Python Tableau
 This project analyzes global population-level health outcomes using life expectancy and economic indicators. Python is used to perform descriptive, diagnostic, and prescriptive analytics, while Tableau transforms the insights into a polished, decision-ready dashboard.
 
 The analysis examines how economic resources and temporal trends relate to health outcomes, identifies countries underperforming relative to expectations, segments populations into interpretable risk groups, and simulates how targeted interventions could improve predicted outcomes.
