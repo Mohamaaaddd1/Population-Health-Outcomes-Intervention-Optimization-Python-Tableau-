@@ -10,17 +10,17 @@ This mirrors real workflows in healthcare analytics, population health managemen
 - `data\`
   - `all_data.csv`
 - `python\`
- - `notebooks\`
-  - `Population_Health_Outcomes_Analysis.ipynb`
- - `python code\`
-  - `life_exp_gdp_analysis.py`
+   - `notebooks\`
+    - `Population_Health_Outcomes_Analysis.ipynb`
+   - `python code\`
+    - `life_exp_gdp_analysis.py`
 - `reports/figures\`
- - `figures`
-  - `global_life_expectancy_trend.png`
-  - `life_exp_vs_gdp.png`
-  - `life_expectancy_distribution.png`
-  - `outcome_gap_residuals.png`
-  - `population_segments_clusters.png`
+   - `figures`
+    - `global_life_expectancy_trend.png`
+    - `life_exp_vs_gdp.png`
+    - `life_expectancy_distribution.png`
+    - `outcome_gap_residuals.png`
+    - `population_segments_clusters.png`
 - `README.md`
 ## 🎯 Objectives
 
