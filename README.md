@@ -14,7 +14,7 @@ This mirrors real workflows in healthcare analytics, population health managemen
       - `Population_Health_Outcomes_Analysis.ipynb` - Narrative notebook explaining analytical decisions, visual exploration, and interpretation of results
    - `python code/`
       - `life_exp_gdp_analysis.py` - End-to-end Python analytics script covering feature engineering, regression analysis, clustering, scenario simulation, and figure generation
-- `reports/figures/`
+- `reports/figures/` - Generated from python (Matplotlib & Seaborn)
    - `figures/`
       - `global_life_expectancy_trend.png` - Time-series view of global average life expectancy, illustrating long-term improvement trends
       - `life_exp_vs_gdp.png` - Scatter plot showing the relationship between economic capacity (log GDP) and life expectancy
