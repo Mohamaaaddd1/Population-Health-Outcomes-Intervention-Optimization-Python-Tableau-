@@ -16,11 +16,11 @@ This mirrors real workflows in healthcare analytics, population health managemen
       - `life_exp_gdp_analysis.py` - End-to-end Python analytics script covering feature engineering, regression analysis, clustering, scenario simulation, and figure generation
 - `reports/figures/` - Generated from python (Matplotlib & Seaborn)
    - `figures/`
-      - `global_life_expectancy_trend.png` - Time-series view of global average life expectancy, illustrating long-term improvement trends
-      - `life_exp_vs_gdp.png` - Scatter plot showing the relationship between economic capacity (log GDP) and life expectancy
-      - `life_expectancy_distribution.png` - Distribution of life expectancy across countries, highlighting global variation and inequality in health outcomes
-      - `outcome_gap_residuals.png` - Regression residuals identifying countries underperforming or outperforming expected life expectancy given economic scale
-      - `population_segments_clusters.png` - Cluster-based segmentation grouping countries into interpretable population risk tiers
+      - `global_life_expectancy_trend.png` - Global average life expectancy trend over time
+      - `life_exp_vs_gdp.png` - Relationship between economic capacity (log GDP) and life expectancy
+      - `life_expectancy_distribution.png` - Global distribution of life expectancy across countries
+      - `outcome_gap_residuals.png` - Residuals showing under/overperformers vs expected outcomes
+      - `population_segments_clusters.png` - K-Means clusters used to segment countries into risk tiers
 - `README.md/`
 ## 🎯 Objectives
 
