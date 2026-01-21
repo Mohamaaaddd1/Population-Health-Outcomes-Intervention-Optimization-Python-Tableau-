@@ -13,7 +13,7 @@ This mirrors real workflows in healthcare analytics, population health managemen
    - `notebooks/`
       - `Population_Health_Outcomes_Analysis.ipynb` - Narrative notebook explaining analytical decisions, visual exploration, and interpretation of results
    - `python code/`
-      - `life_exp_gdp_analysis.py` - End-to-end Python analytics script covering feature engineering, regression analysis, clustering, scenario simulation, and figure generation
+      - `life_exp_gdp_analysis.py` - Python pipeline for feature engineering, modeling, clustering, and exporting dashboard-ready outputs
 - `reports/figures/` - Generated from python (Matplotlib & Seaborn)
    - `figures/`
       - `global_life_expectancy_trend.png` - Global average life expectancy trend over time
@@ -21,6 +21,7 @@ This mirrors real workflows in healthcare analytics, population health managemen
       - `life_expectancy_distribution.png` - Global distribution of life expectancy across countries
       - `outcome_gap_residuals.png` - Residuals showing under/overperformers vs expected outcomes
       - `population_segments_clusters.png` - K-Means clusters used to segment countries into risk tiers
+  - `tableau_ready.csv` - Analytics-ready dataset with engineered features, model outputs, and population segments for Tableau
 - `README.md/`
 ## 🎯 Objectives
 
