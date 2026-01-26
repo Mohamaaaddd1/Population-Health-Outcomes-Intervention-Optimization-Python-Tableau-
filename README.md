@@ -1,5 +1,5 @@
-# Population Health Outcomes Intervention Optimization Python Tableau
-This project analyzes global population-level health outcomes using life expectancy and economic indicators. Python is used to perform descriptive, diagnostic, and prescriptive analytics, while Tableau transforms the insights into a polished, decision-ready dashboard.
+# Population Health Outcomes Intervention Optimization Python Case Study
+This project analyzes global population-level health outcomes using life expectancy and economic indicators. Python is used to perform descriptive, diagnostic, and prescriptive analytics.
 
 The analysis examines how economic resources and temporal trends relate to health outcomes, identifies countries underperforming relative to expectations, segments populations into interpretable risk groups, and simulates how targeted interventions could improve predicted outcomes.
 
@@ -21,7 +21,6 @@ This mirrors real workflows in healthcare analytics, population health managemen
       - `life_expectancy_distribution.png` - Global distribution of life expectancy across countries
       - `outcome_gap_residuals.png` - Residuals showing under/overperformers vs expected outcomes
       - `population_segments_clusters.png` - K-Means clusters used to segment countries into risk tiers
-  - `tableau_ready.csv` - Analytics-ready dataset with engineered features, model outputs, and population segments for Tableau
 - `README.md/`
 ## 🎯 Objectives
 
@@ -32,8 +31,6 @@ Use regression modeling to quantify how economic factors and time trends influen
 Apply clustering techniques to segment populations into meaningful risk groups.
 
 Build scenario simulations to estimate how economic improvements impact projected life expectancy.
-
-Create a Tableau dashboard summarizing KPIs, outcome gaps, clusters, and intervention insights.
 
 Produce a portfolio-ready project demonstrating analytical rigor and healthcare-relevant thinking.
 
@@ -113,8 +110,6 @@ Scenario Simulations
 
 ## 🛠️ Tools Used
 Python via VSCode (pandas, NumPy, seaborn, matplotlib, scikit-learn (LinearRegression, KMeans, StandardScaler), pathlib, modular scripting structure)
-
-Tableau (KPI cards, Line charts, scatterplots, cluster visuals, Parameter-driven “What-If” simulation, Cluster segmentation and outcome-gap dashboards)
 
 GitHub (Version control, Clean project structure, Documented analytics pipeline)
 
