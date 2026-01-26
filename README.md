@@ -132,6 +132,14 @@ Python via VSCode (pandas, NumPy, seaborn, matplotlib, scikit-learn (LinearRegre
 
 GitHub (Version control, Clean project structure, Documented analytics pipeline)
 
+## ▶️ How to Run
+
+```bash
+pip install -r requirements.txt
+python "python/python code/life_exp_gdp_analysis.py"
+jupyter notebook notebooks/Population_Health_Outcomes_Analysis.ipynb
+```
+
 ## 💡 Why This Project Matters
 
 Understanding what drives differences in life expectancy is essential for organizations involved in:
