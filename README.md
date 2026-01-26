@@ -1,5 +1,5 @@
 # Population Health Outcomes Intervention Optimization Python Case Study
-This project analyzes global population-level health outcomes using life expectancy and economic indicators. Python is used to perform descriptive, diagnostic, and prescriptive analytics.
+This project analyzes global population-level health outcomes using life expectancy and economic indicators. Using Python, it performs descriptive, diagnostic, and prescriptive analytics to quantify drivers of health outcomes, identify underperforming populations, segment countries into risk tiers, and simulate intervention scenarios.
 
 The analysis examines how economic resources and temporal trends relate to health outcomes, identifies countries underperforming relative to expectations, segments populations into interpretable risk groups, and simulates how targeted interventions could improve predicted outcomes.
 
@@ -24,15 +24,16 @@ This mirrors real workflows in healthcare analytics, population health managemen
 - `README.md/`
 ## 🎯 Objectives
 
-Perform descriptive and diagnostic analytics to understand global variations in life expectancy.
+Describe global variation in life expectancy across countries and time.
 
-Use regression modeling to quantify how economic factors and time trends influence health outcomes.
+Quantify how economic capacity and time trends relate to health outcomes.
 
-Apply clustering techniques to segment populations into meaningful risk groups.
+Identify underperforming countries using regression outcome gaps (residuals).
 
-Build scenario simulations to estimate how economic improvements impact projected life expectancy.
+Segment populations into interpretable risk tiers using clustering.
 
-Produce a portfolio-ready project demonstrating analytical rigor and healthcare-relevant thinking.
+Simulate “what-if” scenarios to support intervention planning.
+
 
 ## ❓ Key Questions Answered
 Understanding Population Health
