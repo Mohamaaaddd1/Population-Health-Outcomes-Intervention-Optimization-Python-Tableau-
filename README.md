@@ -109,6 +109,24 @@ Scenario Simulations
 
 * High-risk and underperforming clusters show the largest modeled gains, indicating where investment may maximize population-level impact.
 
+## 📊 Visual Results (Python)
+
+### Global Trend
+![Global Trend](reports/figures/global_life_expectancy_trend.png)
+
+### Drivers: GDP vs Life Expectancy
+![GDP vs Life Expectancy](reports/figures/life_exp_vs_gdp.png)
+
+### Outcome Gaps (Residuals)
+![Outcome Gaps](reports/figures/outcome_gap_residuals.png)
+
+### Population Segments (Clusters)
+![Population Segments](reports/figures/population_segments_clusters.png)
+
+### Distribution
+![Distribution](reports/figures/life_expectancy_distribution.png)
+
+
 ## 🛠️ Tools Used
 Python via VSCode (pandas, NumPy, seaborn, matplotlib, scikit-learn (LinearRegression, KMeans, StandardScaler), pathlib, modular scripting structure)
 
